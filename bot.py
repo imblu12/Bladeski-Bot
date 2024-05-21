@@ -144,4 +144,4 @@ async def on_message(message):
             print(f"Failed to delete message in channel {command_channel_id}")
     await bot.process_commands(message)
 
-bot.run('MTI0MTkxNjczODE3NDcxNzk4Mg.GtHXuJ.TSwsgwgcNpv5viGENPNackXezsSQaq16-VxhGs')
+bot.run('MTI0MTkxNjczODE3NDcxNzk4Mg.GhlUsO.5-J16S2n4Y-tMO7W-tBmQbFt799Oy6Nb19bLC0')
